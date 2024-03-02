@@ -7,3 +7,15 @@
 <h3 align="center">Web Developer</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a twitter clone**
+ 
+ 🌱 I’m currently learning **web-scoket,nextjs,typescript**
+
+💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/HimanshuJain04/HimanshuJain04/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
