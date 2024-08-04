@@ -10,15 +10,13 @@
 
 - 🔭 I’m currently working on [twitter clone](https://github.com/HimanshuJain04/twitter-clone)
 
-- 🌱 I’m currently learning **next.js, typescript, socket.io, webRTC**
-
-- 👯 I’m looking to collaborate on [youtube clone](https://github.com/HimanshuJain04/VideoHub)
+- 🌱 I’m currently learning **WEB3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HimanshuJain04/](https://github.com/HimanshuJain04/)
 
 - 💬 Ask me about **react, node.js , mongodb, next.js...**
 
-- 📫 How to reach me **himanshujain5690174@gmail.com**
+- 📫 How to reach me **himanshu09.dev@gmail.com**
 
 - ⚡ Fun fact **Programmers never say "I love you"; they say "I code you"!**
 
