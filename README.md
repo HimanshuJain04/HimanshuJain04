@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/_him_anshu_09" target="blank"><img src="https://img.shields.io/twitter/follow/_him_anshu_09?logo=twitter&style=for-the-badge" alt="_him_anshu_09" /></a> </p>
 
-- 🔭 I’m currently working on [twitter clone](https://github.com/HimanshuJain04/twitter-clone)
+- 🔭 I’m currently working at [MetaTicket](https://github.com/MetaTicket)
 
 - 🌱 I’m currently learning **WEB3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HimanshuJain04/](https://github.com/HimanshuJain04/)
 
-- 💬 Ask me about **react, node.js , mongodb, next.js...**
+- 💬 Ask me about **react, next.js, web3...**
 
 - 📫 How to reach me **himanshu09.dev@gmail.com**
 
