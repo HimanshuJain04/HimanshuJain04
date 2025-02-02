@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshujain04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshujain04" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_him_anshu_09" target="blank"><img src="https://img.shields.io/twitter/follow/_him_anshu_09?logo=twitter&style=for-the-badge" alt="_him_anshu_09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_Himanshu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/_Himanshu_dev?logo=twitter&style=for-the-badge" alt="_Himanshu_dev" /></a> </p>
 
 - 🔭 I’m currently working at [MetaTicket](https://github.com/MetaTicket)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_him_anshu_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_him_anshu_09" height="30" width="40" /></a>
+<a href="https://twitter.com/_Himanshu_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Himanshu_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-jain-72b48925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-jain-72b48925a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himan5hu_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himan5hu_jain" height="30" width="40" /></a>
 </p>
