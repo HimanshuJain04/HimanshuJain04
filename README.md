@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_Himanshu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/_Himanshu_dev?logo=twitter&style=for-the-badge" alt="_Himanshu_dev" /></a> </p>
 
-- 🔭 I’m currently working at [MetaTicket](https://github.com/MetaTicket)
+- 🔭 I’m currently working at [GastroSmart](https://github.com/gastrosmart)
 
 - 🌱 I’m currently learning **WEB3**
 
