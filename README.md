@@ -35,3 +35,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshujain04&show_icons=true&locale=en" alt="himanshujain04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshujain04&" alt="himanshujain04" /></p>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/m88us4vi5ao8mx1l0dfpujsr-dark.svg?v=1785068985957">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/m88us4vi5ao8mx1l0dfpujsr-light.svg?v=1785068985957">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/m88us4vi5ao8mx1l0dfpujsr-dark.svg?v=1785068985957">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
